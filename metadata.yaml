@@ -1,0 +1,38 @@
+_repo: Beautiful-Joe_2818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: "Beautiful Joe was a dog from the town of Meaford, Ontario, whose story\
+  \ inspired the bestselling 1893 novel Beautiful Joe, which contributed to worldwide\
+  \ awareness of animal cruelty.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2818'
+  wikidata: Q3235199
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Animal welfare -- Fiction'
+- !lcsh 'Dog owners -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Human-animal relationships -- Fiction'
+- GITenberg
+title: Beautiful Joe
+url: http://www.gutenberg.org/ebooks/2818
+wikipedia:
+- https://simple.wikipedia.org/wiki/Beautiful_Joe
+- https://en.wikipedia.org/wiki/Beautiful_Joe
+- https://pt.wikipedia.org/wiki/Beautiful_Joe
