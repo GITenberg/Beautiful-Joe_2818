@@ -1,5 +1,8 @@
 _repo: Beautiful-Joe_2818
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -12,6 +15,8 @@ creator:
 description: "Beautiful Joe was a dog from the town of Meaford, Ontario, whose story\
   \ inspired the bestselling 1893 novel Beautiful Joe, which contributed to worldwide\
   \ awareness of animal cruelty.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2818#Beautiful-Joe
 gutenberg_issued: '2001-09-01'
 gutenberg_type: Text
 identifiers:
